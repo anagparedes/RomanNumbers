@@ -1,0 +1,16 @@
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.exe
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.deps.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.runtimeconfig.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.runtimeconfig.dev.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\ref\RomanNumber.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\bin\Debug\net5.0\RomanNumber.pdb
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.AssemblyInfo.cs
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\ref\RomanNumber.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.pdb
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\RomanNumber\RomanNumber\obj\Debug\net5.0\RomanNumber.genruntimeconfig.cache
